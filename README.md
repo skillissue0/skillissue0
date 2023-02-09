@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-- :rat: I've been scripting for 4 years
+- :rat: I've been scripting for 6 years
 
 - :skull: Professional Retarted Rat
 
